@@ -31,3 +31,9 @@ body{
 .titulo-disp {
     font-size: 0.7rem;
   }
+
+.contact-info {
+    margin: 10px; /* Ajusta el margen */
+    text-align: center; /* Centra el mail */
+    word-wrap: break-word; /* Permite que el texto se divida en varias líneas de ser necesario */
+}
